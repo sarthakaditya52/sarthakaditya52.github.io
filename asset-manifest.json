@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab68bc77.chunk.css",
+    "main.js": "/static/js/main.2bdc6fcf.chunk.js",
+    "main.js.map": "/static/js/main.2bdc6fcf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.471f511e.chunk.css": "/static/css/2.471f511e.chunk.css",
+    "static/js/2.65f7f75f.chunk.js": "/static/js/2.65f7f75f.chunk.js",
+    "static/js/2.65f7f75f.chunk.js.map": "/static/js/2.65f7f75f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.471f511e.chunk.css.map": "/static/css/2.471f511e.chunk.css.map",
+    "static/css/main.ab68bc77.chunk.css.map": "/static/css/main.ab68bc77.chunk.css.map",
+    "static/js/2.65f7f75f.chunk.js.LICENSE.txt": "/static/js/2.65f7f75f.chunk.js.LICENSE.txt",
+    "static/media/alShita.1fad9d5c.png": "/static/media/alShita.1fad9d5c.png",
+    "static/media/fontawesome-v5.css": "/static/media/fa-solid-900.c6ec0800.woff",
+    "static/media/ionicons-v4.css": "/static/media/ionicons.bf69b013.woff",
+    "static/media/me.58f8a4ad.jpg": "/static/media/me.58f8a4ad.jpg",
+    "static/media/personalWebsite.692467a7.png": "/static/media/personalWebsite.692467a7.png",
+    "static/media/resume.ec035a43.pdf": "/static/media/resume.ec035a43.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.471f511e.chunk.css",
+    "static/js/2.65f7f75f.chunk.js",
+    "static/css/main.ab68bc77.chunk.css",
+    "static/js/main.2bdc6fcf.chunk.js"
+  ]
+}
